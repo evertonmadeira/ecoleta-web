@@ -32,7 +32,7 @@ As empresas podem se cadastrar nesta plataforma, inserindo seus dados, como cont
 ### :rocket: Repositórios Relacionados
    [Ecoleta Server](https://github.com/evertonmadeira/ecoleta-server)
    
-   [Ecoleta App](https://github.com/evertonmadeira/ecoleta-app)
+   [Ecoleta App](https://github.com/evertonmadeira/ecoleta-mobile)
     
 ### :computer: Tecnologias Utilizadas
    TypeScript
